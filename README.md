@@ -8,6 +8,7 @@
 <h3 align="center">An aspiring data scientist</h3>
 
 - 📫 How to reach me **johnwhite42897@gmail.com**
+- https://white404ave.github.io/Google-Sheets-portfolio/
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
